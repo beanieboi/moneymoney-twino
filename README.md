@@ -1,4 +1,4 @@
-# Bitstamp-Twino
+# Twino-MoneyMoney
 
 Fetches account summary from Twino and returns them as securities
 
